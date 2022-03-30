@@ -8,3 +8,5 @@ This script changes the working directory to the user’s home directory.<br>
 **NB: Run it using source ./2-bring\_me\_home**
 ## 3-listfiles
 This script displays current directory contents in a long format.
+## 4-listmorefiles
+This script displays current directory contents, including hidden files (starting with .). Uses the long format.
