@@ -23,3 +23,5 @@ This script moves the file betty from /tmp/ to /tmp/my\_first\_directory.
 This script deletes the file betty in /tmp/my\_first\_directory.
 ## 9-firstdirdeletion
 This script deletes the directory my\_first\_directory that is in the /tmp directory.
+## 10-back
+This script changes the working directory to the previous one.
