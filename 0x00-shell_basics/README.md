@@ -3,3 +3,6 @@
 This script prints the absolute path name of the current working directory.
 ## 1-listit
 This script displays the contents list of your current directory.
+## 2-bring\_me\_home
+This script changes the working directory to the user’s home directory.
+**NB: Run it using source ./2-bring\_me\_home**
