@@ -33,3 +33,5 @@ script that lists all files (even ones with names beginning with a period charac
 in long format.
 ## 12-file\_type
 This is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
+## 13-symbolic\_link
+This is a script that creates a symbolic link to /bin/ls, named __ls__ in the current working directory.
