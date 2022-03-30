@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(ls -map) "\n"
+echo -e $(ls -mapv) "\n"
