@@ -34,4 +34,6 @@ in long format.
 ## 12-file\_type
 This is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
 ## 13-symbolic\_link
-This is a script that creates a symbolic link to /bin/ls, named __ls__ in the current working directory.
+This is a script that creates a symbolic link to /bin/ls, named \_\_ls\_\_ in the current working directory.
+## 14-copy\_html
+A script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
