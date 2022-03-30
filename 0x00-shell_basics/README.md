@@ -17,3 +17,5 @@ Displays current directory contents.
 - And hidden files (starting with .)
 ## 6-firstdirectory
 This script creates a directory named my\_first\_directory in the /tmp/ directory.
+## 7-movethatfile
+This script moves the file betty from /tmp/ to /tmp/my\_first\_directory.
