@@ -31,3 +31,5 @@ script that lists all files (even ones with names beginning with a period charac
 - the parent of the working directory and 
 - the /boot directory (in this order),
 in long format.
+## 12-file\_type
+This is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory.
