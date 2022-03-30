@@ -19,3 +19,5 @@ Displays current directory contents.
 This script creates a directory named my\_first\_directory in the /tmp/ directory.
 ## 7-movethatfile
 This script moves the file betty from /tmp/ to /tmp/my\_first\_directory.
+## 8-firstdelete
+This script deletes the file betty in /tmp/my\_first\_directory.
