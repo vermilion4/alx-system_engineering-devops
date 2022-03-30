@@ -10,3 +10,8 @@ This script changes the working directory to the user’s home directory.<br>
 This script displays current directory contents in a long format.
 ## 4-listmorefiles
 This script displays current directory contents, including hidden files (starting with .). Uses the long format.
+## 5-listfilesdigitonly
+Displays current directory contents.
+- Long format
+- with user and group IDs displayed numerically
+- And hidden files (starting with .)
