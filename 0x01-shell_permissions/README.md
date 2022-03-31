@@ -32,4 +32,12 @@ A script that adds execute permission to all subdirectories of the current direc
 ## 12-directory\_permissions
 A script that creates a directory called my\_dir with permissions 751 in the working directory.
 ## 13-change\_group
-A script that changes the group owner to school for the file hello.                                              
+A script that changes the group owner to school for the file hello.   
+## 100-change\_owner\_and\_group
+A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+## 101-symbolic\_link\_permissions
+A script that changes the owner and the group owner of _hello to vincent and staff respectively.
+## 102-if\_only
+A script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+## 103-Star\_Wars
+A script that will play the StarWars IV episode in the terminal.
