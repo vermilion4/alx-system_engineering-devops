@@ -24,4 +24,6 @@ A script that sets the permission to the file hello as follows:
 A script that sets the permission to the file hello as follows:            
 - Owner: all the permissions                                              
 - Group: read and execute permissions only                                
-- Other users: write and execute permissions only.                                              
+- Other users: write and execute permissions only.
+## 10-mirror\_permissions
+A script that sets the mode of the file hello the same as olleh’s mode.                                              
