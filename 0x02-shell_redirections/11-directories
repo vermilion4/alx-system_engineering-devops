@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR . | grep -c '^d'
+ls -lR ./ | grep -c '^d'
